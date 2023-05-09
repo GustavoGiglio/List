@@ -1,4 +1,4 @@
-package br.edu.ifrs.restinga.controller;
+package br.edu.ifrs.restinga.list.controller;
 
 import java.util.List;
 
