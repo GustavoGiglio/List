@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ListApplication<list>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.edu.ifrs.restinga.list.ListApplication",
+            "projectName": "list",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
