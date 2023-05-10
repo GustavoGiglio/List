@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.edu.ifrs.restinga.list.dto.GameDTO;
 import br.edu.ifrs.restinga.list.dto.GameMinDTO;
-import br.edu.ifrs.restinga.list.entities.Game;
 import br.edu.ifrs.restinga.list.services.GameService;
 
 @RestController
